@@ -3,7 +3,7 @@ CJ Hines and Costas Panay
 
 Youtube Walkthrough: https://www.youtube.com/watch?v=MnuQPrAueWg&t=3s
 
-[![Video](https://img.youtube.com/vi/MnuQPrAueWg&t=3s/maxresdefault.jpg)](https://www.youtube.com/watch?v=MnuQPrAueWg&t=3s)
+[![Video](thumbnail.jpg)](https://www.youtube.com/watch?v=MnuQPrAueWg&t=3s)
 
 ## Description
 Designed and implemented a 2D tile-based world exploration engine. The worlds consist of a 2D grid of tiles. The user will be able to explore the world by walking around and interacting with objects in the world from an overhead perspective. 
